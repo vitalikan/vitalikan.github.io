@@ -1,0 +1,84 @@
+body {
+	background:  #FFC0CB ;
+}
+h1{
+  text-align-last: middle;
+  text-decoration: ;
+
+}	
+
+p {
+   text-align: justify;
+}
+
+#block-1 {
+	text-decoration: underline;
+}
+
+#block-2 {
+	text-decoration: overline;
+}
+
+#block-3 {
+	text-decoration: underline;
+}
+
+#block-4 {
+	text-decoration: line-through;
+}
+
+#block-5 {
+	text-decoration: underline;
+} 
+
+#block-6 {
+	text-decoration: overline;
+}
+
+h4 {
+  text-align: center;
+}
+.t1{
+	color: red;
+}
+img{
+	border: 4px solid #000;
+}
+.pic_1{
+	border: 4px solid red;
+}
+span{
+	font-style: italic;
+	font-weight: bold;
+}
+button{
+	color:  red;
+}
+   .creature { 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #3ac;
+    position: relative;
+   }
+   .creature::before, .creature::after {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 40px;
+    border-radius: 50%;
+    background: #000;
+    top: 40px;
+    animation: eye 3s ease-in-out infinite;
+    -webkit-animation: eye 3s ease-in-out infinite;
+   }
+   .creature::before { left: 55px; }
+   .creature::after { right: 55px; }
+   @keyframes eye {
+    90% { transform: none; }   
+    95% { transform: scaleY(0.1); }
+   }
+   @-webkit-keyframes eye {
+    90% { transform: none; }   
+    95% { transform: scaleY(0.1); }
+   }
