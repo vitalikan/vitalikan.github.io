@@ -12,6 +12,10 @@
 >
  >>[Урок 7](https://vitalikan.github.io/lesson_7/Дз-7/дз-7/project_1/source/ "урок 7")
  >
+  >>[Урок 5](https://vitalikan.github.io/lesson_5/ "урок 5")
+  >
+  >>[Урок 4](https://vitalikan.github.io/lesson_4/ "урок 4")
+  >
   >>[Урок 3](https://vitalikan.github.io/lesson_3/ "урок 3")
   >
  >>[Урок 2](http://vitalikan.github.io/lesson_2_1/ "урок 2")
