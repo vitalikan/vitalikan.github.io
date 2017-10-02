@@ -4,7 +4,7 @@
 # Кандабаров Виталий
    *___Мои домашние работы___*
    
-  >>[Урок 15 ] (http://vitalikan.github.io/lesson_16/source/ "урок 15")
+  >>[Урок 15 ](http://vitalikan.github.io/lesson_16/source/ "урок 15")
    >
   >>[Урок 14](http://vitalikan.github.io/lesson_15/ "урок 14")
    >
