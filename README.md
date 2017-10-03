@@ -4,7 +4,7 @@
 # Кандабаров Виталий
    *___Мои домашние работы___*
    
-  >>[Практика 2 часть ](http://vitalikan.github.io/lesson_16/source/ "урок 15") - Верстка макета
+  >>[Практика 2 часть ](http://vitalikan.github.io/verstka_maketa/source/ "урок 15") - Верстка макета
    >
   >>[Урок 14](http://vitalikan.github.io/leson_14.1/ "урок 14") - Шрифты
    >
