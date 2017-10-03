@@ -4,9 +4,9 @@
 # Кандабаров Виталий
    *___Мои домашние работы___*
    
-  >>[Урок 15 ](http://vitalikan.github.io/lesson_16/source/ "урок 15")
+  >>[Практика 2 часть ](http://vitalikan.github.io/lesson_16/source/ "урок 15") - Верстка макета
    >
-  >>[Урок 14](http://vitalikan.github.io/lesson_15/ "урок 14")
+  >>[Урок 14](http://vitalikan.github.io/lesson_15/ "урок 14") - Шрифты
    >
    >>[Урок 13](http://vitalikan.github.io/lesson_14//source/ "урок 13")- шапка сайта
    >                                                                                           
