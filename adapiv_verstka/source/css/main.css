@@ -170,7 +170,7 @@ section {
 }
 @media (max-width: 767px) {
   .main {
-    ackground-position: top right;
+    ackground-position: top left;
   }
   .header {
     text-align: center;
