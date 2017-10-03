@@ -3,7 +3,8 @@
 
 # Кандабаров Виталий
    *___Мои домашние работы___*
-   
+   >>[Урок 15](http://vitalikan.github.io/lesson_15/ "урок Затемнёность") - затемнёность 
+   >
   >>[Практика 2 часть ](http://vitalikan.github.io/verstka_maketa/source/ "урок 15") - Верстка макета
    >
   >>[Урок 14](http://vitalikan.github.io/leson_14.1/ "урок 14") - Шрифты
