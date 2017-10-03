@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('BebasNeueRegular.eot');
+	src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+		url('BebasNeueRegular.woff2') format('woff2'),
+		url('BebasNeueRegular.woff') format('woff'),
+		url('BebasNeueRegular.ttf') format('truetype'),
+		url('BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.sens{
+	font-family: 'Open Sans', sans-serif;
+}
+.lober{
+	font-family: 'Lobster', cursive;
+}
+.tato{
+   	font-family: 'Lato', sans-serif;
+}
+.beb{
+	font-family: 'Bebas Neue';
+}
