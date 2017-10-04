@@ -3,6 +3,8 @@
 
 # Кандабаров Виталий
    *___Мои домашние работы___*
+   >>[Урок 16](http://vitalikan.github.io/lesoning_16/source/ "Слайды") - урок по слайдам
+   >
    >>[Практика 3 часть](http://vitalikan.github.io/adapiv_verstka/source/ "урок адаптивная верстка ")- адаптивная верстка 
    >
    >>[Урок 15](http://vitalikan.github.io/lesson_15/ "урок Затемнёность") - затемнёность 
