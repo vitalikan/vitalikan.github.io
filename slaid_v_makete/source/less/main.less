@@ -87,7 +87,16 @@ button, input {
  /* Typography (заголовки) */
 section{
 	padding: 10rem 0;
-} 
+}
+
+   .section-header{
+   	margin: 2rem 0 10rem;
+ 	text-align: center;
+ 	.bold();
+ 	font-size: 3.6rem;
+ 	
+
+ }
 
 
 /* First menu (первая часть меню)*/
@@ -194,6 +203,55 @@ section{
 		vertical-align:  middle;
 		text-align: right;
         }
+}
+/* Оформление секции с преимуществами */
+.features{
+	&-block{
+		text-align: center;
+		h3{
+			.bold();
+			font-size: 2rem;
+			margin-bottom: 3rem;
+		}
+		p{
+			display: inline-block;
+			width: 80%;
+			font-size: 1.5rem;
+		}
+	}
+	&-img {
+		height: 8rem;
+		margin-bottom: 3rem;
+		img{
+			display: block;
+			margin: 0 auto;
+		}
+	}
+}
+.slick-active{
+	outline: none;
+}
+
+.arrow{
+	top: 50%;
+	transform: translateY(-50%);
+	position: absolute;
+	z-index: 99;
+	width: 2rem;
+	height: 2rem;
+	border: none;
+}
+
+.prev{
+	left: 0;
+	background: url(../img/features/left-arrow.svg) center no-repeat;
+	background-size: 70%;
+}
+
+.next{
+	right: 0;
+	background: url(../img/features/right-arrow.svg) center no-repeat;
+	background-size: 70%;
 }
 
 @media (max-width: 991px){
