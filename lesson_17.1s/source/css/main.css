@@ -6,6 +6,7 @@
 }
 .del{
   text-transform: uppercase;
+  outline:none;
 }
 
 .modal-header{
@@ -22,11 +23,13 @@ h4{
   margin-left: 20px;
   background-color: #7fb066;
   box-shadow: 2px 2px;
+  outline:none;
 }
 .btn-no{
     margin-top: 30px;
     background-color: #d35959;
     box-shadow: 2px 2px;
+  outline:none;
 }
 .krug{
   margin-right: 1px;
@@ -39,6 +42,7 @@ h4{
   -webkit-border-radius: 10px;
   border-radius: 10px;
   opacity: ;
+  outline:none;
 }
 span{
   color: #ffffff;
