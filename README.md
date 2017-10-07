@@ -3,6 +3,8 @@
 
 # Кандабаров Виталий
    *___Мои домашние работы___*
+   >>[Модуль 5. Практика. Часть 4.](http://vitalikan.github.io/slaid_v_makete/source/ "Слайд в макете")- Слайд в макете
+   >
    >>[Урок 16](http://vitalikan.github.io/lesoning_16/source/ "Слайды") - урок по слайдам
    >
    >>[Практика 3 часть](http://vitalikan.github.io/adapiv_verstka/source/ "урок адаптивная верстка ")- адаптивная верстка 
