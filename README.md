@@ -5,6 +5,8 @@
    *___Мои домашние работы___*
    >>[Модальное окно в макете](http://vitalikan.github.io/practic_5/source/ "Модальные окна")- Пратика 5 модальные окна
    >
+   >>[Урок №17 Всплывающие окна](http://vitalikan.github.io/lesson_17.1s/source/ "Всплывающие окна")- Всплывающие окна
+   >
    >>[Модуль 5. Практика. Часть 4.](http://vitalikan.github.io/slaid_v_makete/source/ "Слайд в макете")- Слайд в макете
    >
    >>[Урок 16](http://vitalikan.github.io/lesoning_16/source/ "Слайды") - урок по слайдам
