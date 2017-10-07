@@ -6,8 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="/favicon.ico">
 	<title>Гипсолит</title>
-	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    	<link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/main.css">
 	
 </head>
@@ -123,18 +122,45 @@
     </section>
 
 
-	<spript src="https://code.jquery.com/jquery-3.2.1.min.js"></spript>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <!-- Подключаем стили slick slider -->
     <link rel="stylesheet" href="slick/slick.css">
     <link rel="stylesheet" href="slick/slick-theme.css">
-    <!-- Подключае мбиблиотеку slick slider -->
+
+
+    <!-- Подключае библиотеку slick slider -->
+
     <script src="slick/slick.min.js"></script>
 
     <!-- Инициализируем слайдер -->
+
     <script>
     $(document).ready(function(){
       $('.features-slider').slick({
-        
+             infinite: true,
+            slidesToShow: 4,
+             slidesToScroll: 1,
+             responsive: [
+        {
+      breakpoint: 991,
+      settings: {
+        slidesToShow: 2,
+        prevArrow: '<button class="prev arrow"</button>',
+        nextArrow: '<button class="next arrow"</button>',
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 767,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        prevArrow: '<button class="prev arrow"</button>',
+        nextArrow: '<button class="next arrow"</button>'
+      }
+    }
+    
+  ]
       });
     });
     </script>
