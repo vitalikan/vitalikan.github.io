@@ -242,7 +242,7 @@ section {
   font-family: 'ProximaNova_bold', sans-serif;
 }
 .price-block img {
-  max-width: 30rem;
+  max-width: 100%;
   display: inline-block;
   margin-bottom: 2rem;
 }
