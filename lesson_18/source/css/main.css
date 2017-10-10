@@ -9,35 +9,52 @@ h2 {
   text-transform: uppercase;
   margin-top: 15px;
   color: #0bbaf0;
+  margin-bottom: 50px;
 }
 body {
   background-image: url(../img/new.jpg);
 }
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-.panel-group {
-  width: 860px;
-  height: 55px;
-}
-.point {
-  text-align: center;
-}
-h4 {
+.texter{
   text-align: justify;
+  font-weight: 520;
+  font-size: 17px;
+  border-radius: 8px;
+  width: 860px;
+  padding: 10px;
+  font-family:  Arial, sans-serif;
 }
-.panel-default > .panel-heading {
+.main-header{
+  width: 880px;
+  height: 40px;
+}
+.menu{
+
+}
+.horizontal-click [name="vkl"] { display: none; }
+.horizontal-click > :not(input):not(label) {
+  overflow: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0 .5em;
+  border: 1px solid #808080;
+  border-top-style: none;
+  transition: .5s;
+}
+.horizontal-click > label {
+  overflow: hidden;
+  display: block;
+  padding: .5em 1em;
+  background: #0bbaf0;
   color: white;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
 }
-.panel-title {
-  background-color: #0bbaf0;
+.horizontal-click > :checked + label + * {
+  overflow: auto;
+  height: 80px;
 }
-.button {
-  background-color: #0bbaf0;
-}
-.panel-body {
-  text-align: start;
-  font-weight: 650;
-  font-size: 1.4em;
+.horizontal-click > :checked + label {
+  background: #0bbaf0;
+  cursor: default;
 }
