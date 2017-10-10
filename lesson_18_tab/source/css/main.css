@@ -1,0 +1,126 @@
+body {
+  background-image: url('../img/02.jpg') ;
+   -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  font-family: 'Myriad Pro', sans-serif;
+}
+.form {
+  position: absolute;
+  width: 630px;
+  height: 444px;
+  bottom: 50%;
+  margin-bottom: -222px;
+  left: 50%;
+  margin-left: -315px;
+}
+.nav li {
+  background-color: #fff;
+  border-radius: 7px 7px 0 0;
+  margin-left: 25px;
+  margin-right: -15px;
+}
+.nav li a {
+  color: black;
+  font-size: 24px;
+}
+.button.active{
+  text-decoration: none;
+  border: none;
+}
+.nav li a:hover {
+  border-radius: 7px 7px 0 0;
+}
+.form .nav li a:hover {
+  border-radius: 7px 7px 0 0;
+}
+.nav {
+  border: 0;
+}
+.form ul li.active {
+  background-color: #0099cc;
+}
+.form ul li.active a {
+  color: #fff;
+  background-color: #0099cc;
+  border: 1px solid #0099cc;
+  border-radius: 7px 7px 0 0;
+}
+.form ul li.active a:hover,
+.form ul li.active a:visited,
+.form ul li.active a:focus,
+.form ul li.active a:active {
+  color: #fff;
+  background-color: #0099cc;
+  border: 1px solid #0099cc;
+  border-radius: 7px 7px 0 0;
+}
+.tab-content {
+  border: 25px solid #0099cc;
+  border-radius: 10px;
+  background-color: black;
+  padding-top: 70px;
+}
+#home input.input {
+  display: block;
+  width: 90%;
+  height: 60px;
+  margin-left: 29px;
+  margin-bottom: 30px;
+  background-color: #333333;
+  border: none;
+  border-radius: 7px;
+  color: #ffffff;
+  font-size: 24px;
+  padding-left: 15px;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
+#home small {
+  font-size: 15px;
+  color: red;
+  margin-top: -15px;
+  display: block;
+}
+#home p,
+#home .checkbox {
+  display: inline-block;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+#home p {
+  font-size: 16px;
+  color: #666666;
+  margin-left: 5px;
+}
+#home .small {
+  margin-left: 59px;
+}
+#home button {
+  position: absolute;
+  height: 40px;
+  width: 130px;
+  display: inline-block;
+  background-color: #990000;
+  border: none;
+  color: #fff;
+  font-size: 24px;
+  margin-top: -60px;
+  right: 0;
+  margin-right: -15px;
+}
+#home .button .bellow-btn {
+  position: absolute;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 15px solid #330000;
+  border-right: 14px solid transparent;
+  right: 0;
+  margin-right: -15px;
+  margin-top: -20px;
+}
+#profile {
+  color: #fff;
+  font-size: 30px;
+}
