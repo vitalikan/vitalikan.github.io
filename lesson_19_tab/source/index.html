@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA_Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="/favicon.ico">
+	<title>Акардион</title>
+  <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/main.css">
+	
+</head>
+<body>
+  <div class="container "> 
+   <div class="form  wow shake" data-wow-duration="3">
+
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Вход</a></li>
+      <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a></li>
+  
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="home">
+        <input class="input" type="text" placeholder="Ваше имя">
+        <input class="input" type="text" placeholder="Пароль">
+        <div class="small">
+          <small>Забыли пароль?</small>
+          <input class="checkbox" type="checkbox"><p>Напомнить мне</p>
+        </div>
+        <div class="button">
+          <button>Войти</button>
+          <div class="bellow-btn"></div>
+        </div>
+
+      </div>
+      <div role="tabpanel" class="tab-pane" id="profile">Пусто здесь</div>
+    </div>
+
+  </div>
+  </div>
+
+       <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+       <script src="js/wow.min.js"></script>
+       <script>
+        var wow = new WOW;
+          wow.init();
+     </script>
+    <!-- Для модальных окон от bootstrap нужно подключить js-файлы -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+    
+</body>
+</html>
