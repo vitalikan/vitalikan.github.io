@@ -3,6 +3,14 @@
 
 # Кандабаров Виталий
    *___Мои домашние работы___*
+   >>[Практика 7](http://vitalikan.github.io/practic_5_part7/source/ "Практика 7")- Практика 7
+   >
+   >>[Практика 6](http://vitalikan.github.io/practic_5_part_6/source/ "Практика 6")- Практика 6
+   >
+   >>[Таб](http://vitalikan.github.io/lesson_18_tab/source/ "Таб")- Таб
+   >
+   >>[Акардион](http://vitalikan.github.io/lesson_18_acr/source/ "Акардион")- Акардион
+   >   
    >>[Модальное окно в макете](http://vitalikan.github.io/practic_5/source/ "Модальные окна")- Пратика 5 модальные окна
    >
    >>[Урок №17 Всплывающие окна](http://vitalikan.github.io/lesson_17.1s/source/ "Всплывающие окна")- Всплывающие окна
