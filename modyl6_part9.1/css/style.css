@@ -231,7 +231,7 @@ section {
 }
 /* Секция с ценами */
 .price {
-  background: #46b814 url(../img/prices/price-bg.jpg) center;
+  background: #46b814 url(../img/prices/prices-bg.jpg) center;
   /* Оформление картички с тарифами */
 }
 .price-header-btn {
