@@ -1,0 +1,76 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	text-align: center;
+}
+p, a{
+		color:white;
+		font-size: 18px;
+		font-weight: 500;
+}
+.main-header{
+	display: block;
+	z-index: 99;
+	height: 430px;
+	background: #c60b0b;
+}
+h1{
+	font-weight: 700;
+	color:white;
+	font-size: 30px;
+	margin-top: 55px;
+	margin-bottom: 35px;
+}
+.adress{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.phone{
+	display: block;
+	margin-bottom: 35px;
+}
+.map{
+	top: -430px;
+	width: 100%;
+	height: 430px;
+	display: inline-block;
+	z-index: 2;
+}
+.image{
+	height: 60px;
+	width: 60px;
+}
+.tech{
+	position: relative;
+	bottom: 13px;
+	font-size: 16px;
+	font-weight: 700;
+	color: black;
+}
+.tex{
+	position: relative;
+	top: 20px;
+	font-weight: 400;
+	font-size: 14px;
+	text-decoration: underline;
+	color: #666666;
+}
+.ph{
+	position: relative;
+	bootm: 20px;
+	text-decoration: underline;
+	display: inline-block;
+	font-size: 22px;
+	color: black;
+}
+h3{
+	position: relative;
+	bottom: 20px;
+	font-size: 14px;
+	color: black;
+}
+.main{
+	position: relative;
+	bottom: 420px;
+}
